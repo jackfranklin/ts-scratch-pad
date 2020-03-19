@@ -9,3 +9,5 @@ Once you've grabbed this repo and written some code you can easily execute it:
 ```
 npx ts-node src/app.ts
 ```
+
+This is not an officially supported Google product.
